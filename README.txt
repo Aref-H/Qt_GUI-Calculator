@@ -8,4 +8,4 @@ This is a calculator application.
 This project is part of my training to learn Qt framework
 I hope you like it.
 
-Note : Watch video to see code performance
+Note : Watch the provided video to see the project performance
